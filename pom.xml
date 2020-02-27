@@ -64,8 +64,8 @@
                     <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
                     <branch>refs/heads/mvn-repo</branch>
                     <includes><include>**/*</include></includes>
-                    <repositoryName>YOUR-REPOSITORY-NAME</repositoryName>
-                    <repositoryOwner>YOUR-GITHUB-USERNAME</repositoryOwner>
+                    <repositoryName>InventoryModule</repositoryName>
+                    <repositoryOwner>momonnga25252</repositoryOwner>
                 </configuration>
                 <executions>
                     <execution>
